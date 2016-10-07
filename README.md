@@ -15,7 +15,6 @@ Run 'rake install' to create the symlinks needed to setup your environment.
 | `Leader` + `=`| Format whole file. |
 | `Leader` + `t`| Toggle Nerdtree. |
 | `Leader` + `c`| Comment / Uncomment. |
-
 | **Plugins** | |
 | `F1` | Toggle NERDTree. |
 | `F6` or `Leader` + `r` + `a` | Rails command. |
